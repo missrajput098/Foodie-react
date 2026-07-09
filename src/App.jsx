@@ -8,8 +8,8 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 import Menu from "./pages/menu";
 
-import Header from "./components/Header";
 import Footer from "./components/footer";
+import Header from "./components/header";
 
 
 function App() {
